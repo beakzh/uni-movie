@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "canel": "/components/common/canel"
+  },
+  "component": true
+}

@@ -1,0 +1,1 @@
+<view class="page-block super_hot data-v-468e7bb2"><view class="hot_title_wrapper data-v-468e7bb2"><image class="hot_icon data-v-468e7bb2" src="{{imgSrc}}"></image><view class="hot_title data-v-468e7bb2">{{''+hotTitle+''}}</view></view></view>

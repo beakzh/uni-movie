@@ -1,0 +1,89 @@
+.carousel.data-v-57280228 {
+	width: 100%;
+	height: 440rpx;
+}
+.hot_scroll.data-v-57280228 {
+	width: 100%;
+	white-space: nowrap;
+}
+.single-poster.data-v-57280228 {
+	display: inline-block;
+	margin-left: 20rpx;
+}
+.single-wrapper.data-v-57280228 {
+	display: flex;
+	flex-direction: column;
+}
+.poster.data-v-57280228 {
+	width: 200rpx;
+	height: 270rpx;
+}
+.movie-name.data-v-57280228 {
+	width: 200rpx;
+	margin-top: 10rpx;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.hot-movies.data-v-57280228 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding: 0 20rpx 20rpx 20rpx;
+}
+.single-movie.data-v-57280228 {
+	width: 350rpx;
+	height: 220rpx;
+	margin-top: 10rpx;
+}
+.guess.data-v-57280228 {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.like_movie.data-v-57280228 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 30rpx 20rpx;
+}
+.guess_desc.data-v-57280228 {
+	display: flex;
+	flex-direction: column;
+	width: 340rpx;
+}
+.moive_title.data-v-57280228 {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.moive_info.data-v-57280228 {
+	color: #808080;
+	font-size: 14px;
+}
+.movie_oper.data-v-57280228{
+	width: 240rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-left: dashed 2px #dbdbda;
+}
+.praise_ico.data-v-57280228{
+	width: 40rpx;
+	height: 40rpx;
+	align-self: center;
+}
+.praise_me.data-v-57280228{
+	font-size: 14px;
+	color: #feab2a;
+	align-self: center;
+}
+.animation.data-v-57280228{
+	font-weight: bold;
+	opacity: 0;
+}
+
